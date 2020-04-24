@@ -5,7 +5,7 @@
 
 ## 另一个网站：[关中八班论坛](https://gz1708.home.blog)
 
-## 项目创建者的俩博客：[Wordpress站](https://atasgayb.wordpress.com/)[Github站](https://henryhe613.github.io/blog)
+## 项目创建者的俩博客：[Wordpress站](https://atasgayb.wordpress.com/)   [Github站](https://henryhe613.github.io/blog)
 
 Warning!如果您点击了本文的链接，默认您同意本站长不负任何有关链接内容的法律责任，本站仅提供链接收揽，不保证链接内容对您造成伤害，谢谢！
 
