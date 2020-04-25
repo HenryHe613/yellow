@@ -1,4 +1,9 @@
-## Welcome to Yellow Pages
+# Welcome to Yellow Pages
+
+> 
+>提示：推荐访问 [新网站](https://henryhe613.github.io/blog/2020/04/25/yellow-pages/) ，本站可能会失效，时间待定。
+>
+
 ### 很好，你找到了这个网站。
 
 #### 鸣谢提供者和支持者：张咏溟、摇筍糠异、氡氦乘。
