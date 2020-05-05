@@ -8,6 +8,8 @@
 >新网站的密码：cba
 >
 
+<!--
+
 ### 很好，你找到了这个网站。
 
 #### 鸣谢提供者和支持者：张咏溟、摇筍糠异、氡氦乘。
@@ -49,8 +51,7 @@ Warning!如果您点击了本文的链接，默认您同意本站长不负任何
 地址：[Here](http://www.kkppdd99.com)
 
 
-
-<!--You can use the [editor on GitHub](https://github.com/HenryHe613/yellow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/HenryHe613/yellow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
