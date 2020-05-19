@@ -1,7 +1,7 @@
 # Welcome to Yellow Pages
 
 > 
->提示：推荐访问 [新网站](https://henryhe613.github.io/blog/2020/04/25/yellow-pages/) ，本站可能会失效，时间待定。
+>提示：推荐访问 [新网站](https://www.yelow.ga/2020/04/25/yellow-pages/) ，本站可能会失效，时间待定。
 >
 
 >
