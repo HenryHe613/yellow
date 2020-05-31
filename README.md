@@ -1,5 +1,11 @@
 # Welcome to Yellow Pages
+# 现在网站被zh攻击，Yellow Pages转移到八班论坛。
+[关中17届8班论坛](https://gz1708.home.blog/yellow-pages/)
+密码为cbacbacbacbacba
+即5个cba叠加
 
+
+--
 > 
 >提示：推荐访问 [新网站](https://www.yelow.ga/2020/04/25/yellow-pages/) ，本站可能会失效，时间待定。
 >
@@ -7,7 +13,7 @@
 >
 >新网站的密码：cba
 >
-
+--
 <!--
 
 ### 很好，你找到了这个网站。
